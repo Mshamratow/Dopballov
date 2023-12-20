@@ -1,0 +1,7 @@
+C:\Users\Name\source\repos\Doborballov\Doborballov\task2\bin\Debug\task2.exe.config
+C:\Users\Name\source\repos\Doborballov\Doborballov\task2\bin\Debug\task2.exe
+C:\Users\Name\source\repos\Doborballov\Doborballov\task2\bin\Debug\task2.pdb
+C:\Users\Name\source\repos\Doborballov\Doborballov\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+C:\Users\Name\source\repos\Doborballov\Doborballov\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\Name\source\repos\Doborballov\Doborballov\task2\obj\Debug\task2.exe
+C:\Users\Name\source\repos\Doborballov\Doborballov\task2\obj\Debug\task2.pdb
